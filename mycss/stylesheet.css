@@ -2,6 +2,13 @@
 color: red;
 }
 
-.paris-paragraph{
-    color: beige;
+
+#paragraph-background{
+    background-color:beige;
+    font-size: larger;
+    font-style: italic;
 }
+#heading-background{
+    background-color: pink;
+}
+
